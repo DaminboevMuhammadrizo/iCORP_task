@@ -1,3 +1,14 @@
+
+
+// nma bu ?  
+// qana loiha ? 
+// readme.md ga shunchaki yozib qoysa ozi formatlab oladimi ?
+
+
+
+
+
+
 import express from "express";
 import axios from "axios";
 import "dotenv/config";
